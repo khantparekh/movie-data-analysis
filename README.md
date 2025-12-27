@@ -34,17 +34,17 @@ Animation and Action genres generate the most revenue, indicating strong audienc
 
 ## Some Graphs:
 
-1. Top rated movies
-   <img width="1132" height="547" alt="download" src="https://github.com/user-attachments/assets/a8794402-4c55-4e7d-b103-4428b0e13d2b" />
+1. ### Top rated movies
+<img width="500" height="500" alt="download" src="https://github.com/user-attachments/assets/a8794402-4c55-4e7d-b103-4428b0e13d2b" />
 
-2. Rating Vs Revenue Overview
-   <img width="850" height="470" alt="download" src="https://github.com/user-attachments/assets/74bf1daa-b41a-4a7b-bfe4-856316abef4e" />
+2. ### Rating Vs Revenue Overview
+<img width="500" height="500" alt="download" src="https://github.com/user-attachments/assets/74bf1daa-b41a-4a7b-bfe4-856316abef4e" />
 
-3. Top rated Genres
-   <img width="554" height="514" alt="download" src="https://github.com/user-attachments/assets/2620a51b-8b69-4ced-8f20-cda5b8a1866f" />
+3. ### Top rated Genres
+<img width="500" height="500" alt="download" src="https://github.com/user-attachments/assets/2620a51b-8b69-4ced-8f20-cda5b8a1866f" />
 
-4. Genre Vs Revenue
-   <img width="571" height="514" alt="download" src="https://github.com/user-attachments/assets/f7e2ee70-01cb-44b1-8c56-cf0c7e9812b7" />
+4. ### Genre Vs Revenue
+<img width="500" height="500" alt="download" src="https://github.com/user-attachments/assets/f7e2ee70-01cb-44b1-8c56-cf0c7e9812b7" />
 
 ## Tools & Libraries
 - Python
