@@ -7,7 +7,7 @@ This project performs exploratory data analysis (EDA) on an IMDb movie dataset u
 - NumPy
 - Pandas
 - Matplotlib
-- Seaborn (Basic)
+- Seaborn
 
 ## Key Work
 - Data cleaning and preprocessing
